@@ -1,0 +1,16 @@
+.banner{
+	background-image: url(../../images/lomé-togo.jpg);
+	color: white;
+	padding: 160px 0px;
+	background-position: center;
+	background-size: cover;
+}
+
+.banner h1{font-size: 60px;
+	padding-bottom: 10px;
+}
+
+.banner h2{font-size: 30px;
+	font-weight: lighter;
+	margin-bottom: 40px;
+}
